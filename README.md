@@ -83,7 +83,7 @@
 
 [Ссылка на репозиторий проекта](https://github.com/SarmiAnsim/ITLabs)
 
-[Ссылка на страницу проекта](https://github.com/SarmiAnsim/ITLabs/blob/main/index.html)
+[Ссылка на страницу проекта](https://sarmiansim.github.io/ITLabs/)
 
 
 ## ✅Экзаменационный билет №13
